@@ -54,7 +54,8 @@ PHP API Setup
 - Clone this projects
 
 ```bash
-  git clone https://github.com/RevanandaXD/Dashboard_Monitoring_Sensor.git
+  git clone
+  https://github.com/RevanandaXD/Dashboard_Monitoring_Sensor.git
 ```
 Access Dashboard
 - Open http://localhost/your_project_folder/dashboard.php in your browser
