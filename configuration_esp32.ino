@@ -7,7 +7,7 @@ const char* ssid = "Alfayra";
 const char* password = "Revananda2006";
 
 // --- Server PHP ---
-String serverName = "http://192.168.1.81/monitoring_sensor/api_receive.php";
+String serverName = "http://192..../monitoring_sensor/api_receive.php";
 
 // --- Pin Sensor ---
 #define LDR_PIN 34
